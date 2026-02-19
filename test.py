@@ -15,6 +15,9 @@ def make_silly_image(path="silly_face.png"):
 		pass
 	return path
 
+
+print("Bonjour")
+
 if __name__ == "__main__":
 	try:
 		out = make_silly_image()
@@ -24,3 +27,6 @@ if __name__ == "__main__":
 
 
 ##123
+
+#hello!!!
+
