@@ -21,4 +21,6 @@ if __name__ == "__main__":
 		print(f"Wrote silly image to {out}")
 	except Exception as e:
 		print("Couldn't create/display silly image:", e)
- 
+
+
+##123
